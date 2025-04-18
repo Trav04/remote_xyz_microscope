@@ -36,7 +36,7 @@ The RCM is a computer-controlled microscope that can:
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 repo/
 │
 ├── pf/                 # Main application logic
@@ -46,7 +46,7 @@ repo/
 │
 └── mylib/              # Modular drivers and hardware control
     ├──header & driver files
-\`\`\`
+```
 
 ## Dependencies
 
